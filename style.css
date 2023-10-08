@@ -74,8 +74,6 @@ h1{
     height: 90vh; 
     max-width: 98vw;
     margin: auto;
-    display: inline-flex;
-
 }
 
 .widget{
